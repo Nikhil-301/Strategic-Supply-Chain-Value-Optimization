@@ -1,4 +1,3 @@
-````markdown name=README.md
 # 🚀 Strategic Supply Chain Value Optimization
 
 ## Overview
